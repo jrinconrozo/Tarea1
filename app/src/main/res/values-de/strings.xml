@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">primerApp</string>
+    <string name="text1">WILLKOMMEN</string>
+    <string name="button">TRETEN SIE EIN</string>
+
+</resources>
